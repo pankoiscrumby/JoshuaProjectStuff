@@ -1,0 +1,243 @@
+[
+  {
+    "affinity_bloc_name": "Arab World",
+    "total_people_groups": 699,
+    "total_population": 454533900,
+    "unreached_people_groups": 506,
+    "unreached_population": 385248200,
+    "percent_unreached_groups": 72.4,
+    "countries_present": 127,
+    "countries_list": [
+      "SOM",
+      "CIV",
+      "BDI",
+      "BFA",
+      "BHR",
+      "CAN",
+      "IDN",
+      "MUS",
+      "SDN",
+      "NOR"
+    ],
+    "regions_present": 11,
+    "regions_list": [
+      "America, Latin",
+      "Asia, Central",
+      "Africa, East and Southern",
+      "Europe, Eastern and Eurasia",
+      "Europe, Western",
+      "Asia, Southeast",
+      "Asia, South",
+      "Australia and Pacific",
+      "America, North and Caribbean",
+      "Africa, North and Middle East",
+      "Africa, West and Central"
+    ],
+    "primary_languages_count": 72,
+    "jp_scale_1_unreached": 506,
+    "jp_scale_2_minimal": 90,
+    "jp_scale_3_superficial": 53,
+    "jp_scale_4_partial": 49,
+    "jp_scale_5_significant": 1,
+    "strategic_priority_score": 5,
+    "strategic_priority": "Very High",
+    "sample_groups": [
+      {
+        "people_group_name": "Tuareg, Air",
+        "country": "Niger",
+        "population": 517000,
+        "least_reached": "Y",
+        "jp_scale": 1
+      },
+      {
+        "people_group_name": "Amri",
+        "country": "Sudan",
+        "population": 101000,
+        "least_reached": "Y",
+        "jp_scale": 1
+      },
+      {
+        "people_group_name": "Arab",
+        "country": "Luxembourg",
+        "population": 8100,
+        "least_reached": "N",
+        "jp_scale": 2
+      },
+      {
+        "people_group_name": "Arab",
+        "country": "North Macedonia",
+        "population": 5500,
+        "least_reached": "Y",
+        "jp_scale": 1
+      },
+      {
+        "people_group_name": "Arab",
+        "country": "Monaco",
+        "population": 200,
+        "least_reached": "N",
+        "jp_scale": 2
+      }
+    ]
+  },
+  {
+    "affinity_bloc_name": "East Asian Peoples",
+    "total_people_groups": 484,
+    "total_population": 1580084900,
+    "unreached_people_groups": 171,
+    "unreached_population": 215428600,
+    "percent_unreached_groups": 35.3,
+    "countries_present": 141,
+    "countries_list": [
+      "PRK",
+      "AGO",
+      "TKM",
+      "CUW",
+      "ABW",
+      "BHR",
+      "CAN",
+      "IDN",
+      "KOR",
+      "MUS"
+    ],
+    "regions_present": 12,
+    "regions_list": [
+      "America, Latin",
+      "Asia, Central",
+      "Africa, East and Southern",
+      "Asia, Northeast",
+      "Asia, Southeast",
+      "Europe, Western",
+      "Europe, Eastern and Eurasia",
+      "Asia, South",
+      "Australia and Pacific",
+      "America, North and Caribbean",
+      "Africa, North and Middle East",
+      "Africa, West and Central"
+    ],
+    "primary_languages_count": 75,
+    "jp_scale_1_unreached": 171,
+    "jp_scale_2_minimal": 13,
+    "jp_scale_3_superficial": 2,
+    "jp_scale_4_partial": 228,
+    "jp_scale_5_significant": 70,
+    "strategic_priority_score": 5,
+    "strategic_priority": "Very High",
+    "sample_groups": [
+      {
+        "people_group_name": "Ami",
+        "country": "China",
+        "population": 2000,
+        "least_reached": "Y",
+        "jp_scale": 1
+      },
+      {
+        "people_group_name": "Ami",
+        "country": "Taiwan",
+        "population": 207000,
+        "least_reached": "N",
+        "jp_scale": 4
+      },
+      {
+        "people_group_name": "Sakizaya",
+        "country": "Taiwan",
+        "population": 800,
+        "least_reached": "N",
+        "jp_scale": 3
+      },
+      {
+        "people_group_name": "Straits Chinese, Baba Creole",
+        "country": "Malaysia",
+        "population": 284000,
+        "least_reached": "N",
+        "jp_scale": 4
+      },
+      {
+        "people_group_name": "Straits Chinese, Baba Creole",
+        "country": "Singapore",
+        "population": 20000,
+        "least_reached": "N",
+        "jp_scale": 4
+      }
+    ]
+  },
+  {
+    "affinity_bloc_name": "Eurasian Peoples",
+    "total_people_groups": 317,
+    "total_population": 94462350,
+    "unreached_people_groups": 55,
+    "unreached_population": 5294300,
+    "percent_unreached_groups": 17.4,
+    "countries_present": 106,
+    "countries_list": [
+      "AGO",
+      "TKM",
+      "MNE",
+      "SVN",
+      "MDA",
+      "CAN",
+      "KOR",
+      "XKV",
+      "CCK",
+      "SDN"
+    ],
+    "regions_present": 11,
+    "regions_list": [
+      "America, Latin",
+      "Asia, Central",
+      "Africa, East and Southern",
+      "Europe, Eastern and Eurasia",
+      "Europe, Western",
+      "Asia, Northeast",
+      "Asia, Southeast",
+      "Australia and Pacific",
+      "America, North and Caribbean",
+      "Africa, North and Middle East",
+      "Africa, West and Central"
+    ],
+    "primary_languages_count": 33,
+    "jp_scale_1_unreached": 55,
+    "jp_scale_2_minimal": 2,
+    "jp_scale_3_superficial": 117,
+    "jp_scale_4_partial": 78,
+    "jp_scale_5_significant": 65,
+    "strategic_priority_score": 5,
+    "strategic_priority": "Very High",
+    "sample_groups": [
+      {
+        "people_group_name": "Abaza, Arabized",
+        "country": "Egypt",
+        "population": 16000,
+        "least_reached": "Y",
+        "jp_scale": 1
+      },
+      {
+        "people_group_name": "Abaza",
+        "country": "Russia",
+        "population": 42000,
+        "least_reached": "Y",
+        "jp_scale": 1
+      },
+      {
+        "people_group_name": "Abaza",
+        "country": "T\u00fcrkiye (Turkey)",
+        "population": 14000,
+        "least_reached": "Y",
+        "jp_scale": 1
+      },
+      {
+        "people_group_name": "Abkhaz",
+        "country": "Georgia",
+        "population": 900,
+        "least_reached": "N",
+        "jp_scale": 3
+      },
+      {
+        "people_group_name": "Abkhaz",
+        "country": "Germany",
+        "population": 5100,
+        "least_reached": "N",
+        "jp_scale": 3
+      }
+    ]
+  }
+]

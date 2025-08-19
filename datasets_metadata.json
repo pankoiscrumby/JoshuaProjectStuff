@@ -1,0 +1,122 @@
+{
+  "dataset_info": {
+    "creation_date": "2025-08-18",
+    "data_sources": {
+      "joshua_project": {
+        "api_url": "https://api.joshuaproject.net/v1",
+        "description": "Global missions data including people groups, countries, and evangelization metrics",
+        "countries_analyzed": 238,
+        "merged_countries": 214
+      },
+      "world_bank": {
+        "api_url": "https://api.worldbank.org/v2",
+        "description": "Development indicators including economic, social, and demographic data",
+        "indicators_used": 8,
+        "latest_year": "2023"
+      }
+    },
+    "merge_methodology": "Countries matched using ISO3 country codes",
+    "coverage": "214 countries (89.9% of Joshua Project countries)"
+  },
+  "files_created": [
+    {
+      "filename": "economic_development_vs_gospel_progress.json",
+      "description": "Cross-analysis of economic development indicators with Gospel penetration metrics",
+      "record_count": 193,
+      "key_fields": [
+        "gdp_per_capita",
+        "income_category",
+        "percent_evangelical",
+        "gospel_category"
+      ],
+      "visualization_potential": [
+        "Scatter plot: GDP per capita vs Evangelical percentage",
+        "Bubble chart: Economic development vs Gospel progress (bubble size = population)",
+        "Grouped bar chart: Income categories vs Gospel categories",
+        "Heat map: Regional economic development vs evangelization levels"
+      ]
+    },
+    {
+      "filename": "human_development_vs_unreached.json",
+      "description": "Human development indicators correlated with unreached population statistics",
+      "record_count": 180,
+      "key_fields": [
+        "life_expectancy",
+        "urban_population_percent",
+        "unreached_population",
+        "percent_unreached"
+      ],
+      "visualization_potential": [
+        "Correlation matrix: Development indicators vs unreached populations",
+        "Scatter plot: Life expectancy vs percentage of unreached people",
+        "Multi-axis chart: Urbanization vs Gospel access over regions",
+        "Box plot: Distribution of development metrics by Gospel progress levels"
+      ]
+    },
+    {
+      "filename": "regional_analysis_summary.json",
+      "description": "Aggregated regional statistics combining economic, development, and missions data",
+      "record_count": 12,
+      "key_fields": [
+        "unreached_population",
+        "avg_gdp_per_capita",
+        "avg_life_expectancy",
+        "avg_percent_evangelical"
+      ],
+      "visualization_potential": [
+        "Polar/radar chart: Multi-dimensional regional comparison",
+        "Geographic map: Choropleth showing unreached populations by region",
+        "Parallel coordinates: Multi-dimensional regional analysis",
+        "Stacked area chart: Regional composition of global unreached populations"
+      ]
+    },
+    {
+      "filename": "digital_connectivity_vs_gospel.json",
+      "description": "Digital infrastructure and internet penetration vs Gospel access analysis",
+      "record_count": 176,
+      "key_fields": [
+        "internet_users_percent",
+        "connectivity_category",
+        "percent_evangelical",
+        "urban_population_percent"
+      ],
+      "visualization_potential": [
+        "Scatter plot: Internet penetration vs Gospel access",
+        "Grouped analysis: Connectivity categories vs evangelization levels",
+        "3D visualization: Internet usage, urbanization, and Gospel progress",
+        "Trend analysis: Digital divide vs spiritual divide"
+      ]
+    },
+    {
+      "filename": "population_demographics_unreached.json",
+      "description": "Population size and demographic patterns vs unreached people group statistics",
+      "record_count": 214,
+      "key_fields": [
+        "total_population",
+        "population_category",
+        "unreached_population",
+        "unreached_category"
+      ],
+      "visualization_potential": [
+        "Treemap: Countries sized by unreached populations",
+        "Sunburst chart: Population categories broken down by unreached status",
+        "Stream graph: Population flows and unreached concentrations",
+        "Proportional symbol map: Country populations with unreached overlays"
+      ]
+    },
+    {
+      "filename": "comprehensive_country_profiles.json",
+      "description": "Complete country-level dataset with all available Joshua Project and World Bank metrics",
+      "record_count": 214,
+      "key_fields": [
+        "All fields from both data sources"
+      ],
+      "visualization_potential": [
+        "Interactive dashboard: Filterable country profiles",
+        "Multi-select comparison tool: Side-by-side country analysis",
+        "Dynamic clustering: Countries grouped by similar characteristics",
+        "Time series potential: Historical analysis framework"
+      ]
+    }
+  ]
+}

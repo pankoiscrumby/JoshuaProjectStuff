@@ -1,0 +1,142 @@
+[
+  {
+    "language_family": "Other",
+    "total_languages": 933,
+    "languages_needing_translation": 422,
+    "languages_with_complete_bible": 84,
+    "languages_with_audio": 625,
+    "languages_with_jesus_film": 273,
+    "percent_needing_translation": 45.2,
+    "percent_with_complete_bible": 9.0,
+    "total_people_groups_served": 5923,
+    "countries_present": 91,
+    "avg_economic_capacity": 7829.85,
+    "strategic_priority_score": 6,
+    "strategic_priority": "Very High",
+    "sample_languages": [
+      {
+        "language": "A'ou",
+        "hub_country": "China",
+        "bible_status": 0,
+        "people_groups_using": null
+      },
+      {
+        "language": "Aari",
+        "hub_country": "Ethiopia",
+        "bible_status": 5,
+        "people_groups_using": 1
+      },
+      {
+        "language": "Aasax",
+        "hub_country": "Tanzania",
+        "bible_status": 0,
+        "people_groups_using": null
+      }
+    ]
+  },
+  {
+    "language_family": "Semitic",
+    "total_languages": 35,
+    "languages_needing_translation": 13,
+    "languages_with_complete_bible": 3,
+    "languages_with_audio": 34,
+    "languages_with_jesus_film": 19,
+    "percent_needing_translation": 37.1,
+    "percent_with_complete_bible": 8.6,
+    "total_people_groups_served": 601,
+    "countries_present": 23,
+    "avg_economic_capacity": 15828.3,
+    "strategic_priority_score": 6,
+    "strategic_priority": "Very High",
+    "sample_languages": [
+      {
+        "language": "Agarabi",
+        "hub_country": "Papua New Guinea",
+        "bible_status": 4,
+        "people_groups_using": 1
+      },
+      {
+        "language": "Arabana",
+        "hub_country": "Australia",
+        "bible_status": 0,
+        "people_groups_using": null
+      },
+      {
+        "language": "Arabela",
+        "hub_country": "Peru",
+        "bible_status": 4,
+        "people_groups_using": 1
+      }
+    ]
+  },
+  {
+    "language_family": "Sign Languages",
+    "total_languages": 15,
+    "languages_needing_translation": 10,
+    "languages_with_complete_bible": 1,
+    "languages_with_audio": 0,
+    "languages_with_jesus_film": 2,
+    "percent_needing_translation": 66.7,
+    "percent_with_complete_bible": 6.7,
+    "total_people_groups_served": 14,
+    "countries_present": 15,
+    "avg_economic_capacity": 27462.39,
+    "strategic_priority_score": 4,
+    "strategic_priority": "High",
+    "sample_languages": [
+      {
+        "language": "Adamorobe Sign Language",
+        "hub_country": "Ghana",
+        "bible_status": 1,
+        "people_groups_using": null
+      },
+      {
+        "language": "Al-Sayyid Bedouin Sign Language",
+        "hub_country": "Israel",
+        "bible_status": 0,
+        "people_groups_using": null
+      },
+      {
+        "language": "Albanian Sign Language",
+        "hub_country": "Albania",
+        "bible_status": 2,
+        "people_groups_using": 2
+      }
+    ]
+  },
+  {
+    "language_family": "Sino-Tibetan",
+    "total_languages": 10,
+    "languages_needing_translation": 3,
+    "languages_with_complete_bible": 2,
+    "languages_with_audio": 6,
+    "languages_with_jesus_film": 4,
+    "percent_needing_translation": 30.0,
+    "percent_with_complete_bible": 20.0,
+    "total_people_groups_served": 13,
+    "countries_present": 9,
+    "avg_economic_capacity": 10497.26,
+    "strategic_priority_score": 2,
+    "strategic_priority": "Medium",
+    "sample_languages": [
+      {
+        "language": "Achang",
+        "hub_country": "China",
+        "bible_status": 5,
+        "people_groups_using": 4
+      },
+      {
+        "language": "Adnyamathanha",
+        "hub_country": "Australia",
+        "bible_status": 2,
+        "people_groups_using": null
+      },
+      {
+        "language": "Afghan Sign Language",
+        "hub_country": "Afghanistan",
+        "bible_status": 2,
+        "people_groups_using": 1
+      }
+    ]
+  }
+]

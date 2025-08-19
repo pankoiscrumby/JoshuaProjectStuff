@@ -1,0 +1,15 @@
+{
+  "global_totals": {
+    "countries_analyzed": 214,
+    "total_global_population": 8039725444,
+    "total_unreached_population": 3550835900,
+    "total_unreached_people_groups": 7317,
+    "global_percent_unreached": 44.166133840428195
+  },
+  "data_coverage": {
+    "countries_with_gdp_data": 199,
+    "countries_with_evangelical_data": 208,
+    "countries_with_unreached_data": 180,
+    "countries_with_internet_data": 181
+  }
+}
